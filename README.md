@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bhuvaneshwar2511
+- 👋 Hi, I’m Bhuvaneshwar
 - 👀 I’m interested in Cloud Computing, Android Apps and Java
 - 🌱 I’m currently learning Cloud Computing
 - 💞️ I’m looking to collaborate on Android Apps
